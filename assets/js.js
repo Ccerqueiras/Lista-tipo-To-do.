@@ -38,3 +38,4 @@ function addTask(description) {//descreption serve como parametro e recebe o val
 
 //const lista = document.getElementById('lista');//identifica o Id lista - define o lugar onde está a lista
 //lista.appendChild(criadiv) - insere o criadiv dentro da lista.
+//taskLabel.appendChild(textoinput);//atrela o text input ao text label.
