@@ -1,5 +1,5 @@
-# Lista To-Do:
-Uma pagina simples com elemtos Html, Css e Javascript.
+# Lista To-Do: 🗒️
+Uma página simples com elementos Html, Css e Javascript.
 
-São inseridos valores em forma de listas, quando um item é checado, o mesmo é resciado.
-possui um botão limpar, para recarregar a pagina.
+São inseridos valores em forma de listas, quando um item é checado, ele é riscado.
+possui um botão limpar, para recarregar a página.
