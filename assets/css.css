@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.EC{
+    border: 0; 
+}
+.Container{
+    padding: 5px;
+}
+
+.bt{
+    border-radius: 16%;
+   
+    border: 1px black solid;
+}
+#camp{
+    background-color: rgb(227, 238, 234);
+}
+/* verifica se o input está checado e risca o texto */
+:checked + label {
+  text-decoration: line-through;
+  color: grey;
+  font-weight: bold
+}
+
+#lista{
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+#Feito{
+    min-width: 2px;
+    min-height: 2px;
+    margin-right: 5px;
+}
